@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/redditti/static/css/main.453a212c.chunk.css",
-    "main.js": "/redditti/static/js/main.014416f9.chunk.js",
-    "main.js.map": "/redditti/static/js/main.014416f9.chunk.js.map",
+    "main.css": "/redditti/static/css/main.df1ad78d.chunk.css",
+    "main.js": "/redditti/static/js/main.2c15fb59.chunk.js",
+    "main.js.map": "/redditti/static/js/main.2c15fb59.chunk.js.map",
     "runtime-main.js": "/redditti/static/js/runtime-main.51c7fb80.js",
     "runtime-main.js.map": "/redditti/static/js/runtime-main.51c7fb80.js.map",
     "static/js/2.8209b18e.chunk.js": "/redditti/static/js/2.8209b18e.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.b212d1ae.chunk.js": "/redditti/static/js/3.b212d1ae.chunk.js",
     "static/js/3.b212d1ae.chunk.js.map": "/redditti/static/js/3.b212d1ae.chunk.js.map",
     "index.html": "/redditti/index.html",
-    "static/css/main.453a212c.chunk.css.map": "/redditti/static/css/main.453a212c.chunk.css.map",
+    "static/css/main.df1ad78d.chunk.css.map": "/redditti/static/css/main.df1ad78d.chunk.css.map",
     "static/js/2.8209b18e.chunk.js.LICENSE.txt": "/redditti/static/js/2.8209b18e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.51c7fb80.js",
     "static/js/2.8209b18e.chunk.js",
-    "static/css/main.453a212c.chunk.css",
-    "static/js/main.014416f9.chunk.js"
+    "static/css/main.df1ad78d.chunk.css",
+    "static/js/main.2c15fb59.chunk.js"
   ]
 }
